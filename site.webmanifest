@@ -1,0 +1,38 @@
+{
+  "name": "TaskFlow – Smart Task Manager",
+  "short_name": "TaskFlow",
+  "description": "A modern offline-first task management application.",
+
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+
+  "display": "standalone",
+  "orientation": "any",
+
+  "theme_color": "#6366f1",
+  "background_color": "#f0f4ff",
+
+  "lang": "en",
+  "dir": "ltr",
+
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+
+  "icons": [
+    {
+      "src": "./web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
